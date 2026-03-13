@@ -1,3 +1,17 @@
-body {
+body{
+font-family: Arial;
+background-color:#f0f0f0;
+text-align:center;
   background-color: red;
+}
+
+.section{
+background:white;
+margin:20px;
+padding:20px;
+border-radius:10px;
+}
+
+h1{
+color:#333;
 }
